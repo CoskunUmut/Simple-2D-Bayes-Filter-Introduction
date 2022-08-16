@@ -1,4 +1,4 @@
-# Bayes Filter Demonstration with 2 Color Grid
+# Simple 2D Bayer Filter demonstration with 2 color grid
 
 ## How it works
 -The brightness of any grid-field indicates the probability of the true position (shown top right in blue color)
